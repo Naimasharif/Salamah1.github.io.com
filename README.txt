@@ -1,1 +1,2 @@
 This project analyzes breast cancer data using machine learning to predict tumor malignancy. It includes data preprocessing, exploratory analysis, and model evaluation. Key features like tumor radius and texture are used for classification. Built with Python, pandas, and scikit-learn. 
+We analyzed this project in a pandas frame work,we did some data analysis like data cleaning and preprocessing. From our analysis, we found no missing values in the dataset,we also used Logistic Regression algorithm to predict our model,the model's accuracy is 95%.
